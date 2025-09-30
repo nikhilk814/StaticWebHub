@@ -13,6 +13,8 @@ MyWebsite/
 ```
 
 ### Index.html
+This is the homepage of your website.
+It welcomes visitors, shows the logo and banner, and gives an overview of services.
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -57,6 +59,8 @@ MyWebsite/
 </html>
 ```
 ### about.html
+This page tells users who you are and what your mission/vision is.
+It also includes a profile image to give a personal or team identity.
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -100,6 +104,8 @@ MyWebsite/
 </html>
 ```
 ### contact.html
+This page provides ways for visitors to reach you via email, phone, or social links.
+It also uses a banner image to make the section visually engaging.
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -144,6 +150,8 @@ MyWebsite/
 </html>
 ```
 ### style.css
+This file defines the design and layout of your website, including colors, fonts, spacing, and responsiveness.
+It ensures consistency across all pages, making the site look clean and professional on desktop and mobile.
 ```
 /* General Styles */
 body {
