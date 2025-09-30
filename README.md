@@ -1,15 +1,8 @@
 # StaticWebHub on GitHub
 
 # MyWebsite
-
-A professional multi-page static website hosted using **GitHub Pages**.  
-This project includes a Home, About, and Contact page with clean and responsive CSS styling.
-
 ---
-
-## 🚀 Live Website
-Once GitHub Pages is enabled, the website will be live at:
-
+```
 MyWebsite/
 │
 ├── index.html
@@ -17,7 +10,7 @@ MyWebsite/
 ├── contact.html
 ├── style.css
 └── images/ ←  folder for images like logos, banners, etc.
-
+```
 
 ### Index.html
 ```
@@ -240,7 +233,6 @@ footer {
     }
 }
 ```
-
 ## ✅  Host on GitHub Pages
 
 1. Push project files to a GitHub repository (e.g., `MyWebsite`)
@@ -251,6 +243,8 @@ footer {
    - Folder: `/ (root)`
 4. Click **Save**
 5. GitHub will generate a live site link in below
+   > 🌍 **Live Website:**  
+   > [https://nikhilk814.github.io/StaticWebHub/index.html](https://nikhilk814.github.io/StaticWebHub/index.html)
 
 
 <img width="1817" height="793" alt="pages" src="https://github.com/user-attachments/assets/1afde1ea-89a5-401d-bf3c-472166a79bd0" />
