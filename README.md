@@ -243,8 +243,10 @@ footer {
    - Folder: `/ (root)`
 4. Click **Save**
 5. GitHub will generate a live site link in below
-   > 🌍 **Live Website:**  
-   > [https://nikhilk814.github.io/StaticWebHub/index.html](https://nikhilk814.github.io/StaticWebHub/index.html)
+   [![Live Demo](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=github)](https://nikhilk814.github.io/StaticWebHub/index.html)
+
+
+
 
 
 <img width="1817" height="793" alt="pages" src="https://github.com/user-attachments/assets/1afde1ea-89a5-401d-bf3c-472166a79bd0" />
