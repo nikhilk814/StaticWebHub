@@ -242,6 +242,9 @@ footer {
    - Branch: `main`
    - Folder: `/ (root)`
 4. Click **Save**
+   <img width="1817" height="793" alt="pages" src="https://github.com/user-attachments/assets/1afde1ea-89a5-401d-bf3c-472166a79bd0" />
+   <img width="1827" height="741" alt="website" src="https://github.com/user-attachments/assets/617bb041-5ac1-42ec-98e8-ba3fedce3df9" />
+
 5. GitHub will generate a live site link in below
    [![Live Demo](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=github)](https://nikhilk814.github.io/StaticWebHub/index.html)
 
@@ -249,8 +252,7 @@ footer {
 
 
 
-<img width="1817" height="793" alt="pages" src="https://github.com/user-attachments/assets/1afde1ea-89a5-401d-bf3c-472166a79bd0" />
-<img width="1827" height="741" alt="website" src="https://github.com/user-attachments/assets/617bb041-5ac1-42ec-98e8-ba3fedce3df9" />
+
 <img width="1843" height="937" alt="hosted" src="https://github.com/user-attachments/assets/9799879f-2dc4-42cc-aa5d-ece37f237c88" />
 
 
