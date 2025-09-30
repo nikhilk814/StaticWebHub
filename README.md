@@ -247,7 +247,7 @@ footer {
 
 5. GitHub will generate a live site link in below
    > 🌍 **Live Website:**  
-   > [https://nikhilk814.github.io/StaticWebHub/index.html](https://nikhilk814.github.io/StaticWebHub/index.html)
+   ># [https://nikhilk814.github.io/StaticWebHub/index.html](https://nikhilk814.github.io/StaticWebHub/index.html)
 
 
 
