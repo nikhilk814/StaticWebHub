@@ -17,9 +17,7 @@ MyWebsite/
 ├── contact.html
 ├── style.css
 └── images/ ←  folder for images like logos, banners, etc.
-├── logo.png ← logo image
-├── banner.jpg ←  banner image
-└── profile.png ← profile 
+
 
 ### Index.html
 ```
