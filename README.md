@@ -246,8 +246,9 @@ footer {
    <img width="1827" height="741" alt="website" src="https://github.com/user-attachments/assets/617bb041-5ac1-42ec-98e8-ba3fedce3df9" />
 
 5. GitHub will generate a live site link in below
-   ## 🚀 Live 
-   **🔗 [Click here to open the site](https://nikhilk814.github.io/StaticWebHub/index.html)**
+   > 🌍 **Live Website:**  
+   > [https://nikhilk814.github.io/StaticWebHub/index.html](https://nikhilk814.github.io/StaticWebHub/index.html)
+
 
 
 
