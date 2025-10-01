@@ -267,3 +267,39 @@ footer {
 <img width="1843" height="937" alt="hosted" src="https://github.com/user-attachments/assets/9799879f-2dc4-42cc-aa5d-ece37f237c88" />
 
 
+### Questions and Answers
+---
+### ✅ 1. What is GitHub Pages?
+GitHub Pages is a free service from GitHub where you can host websites directly from your GitHub repository. It works best for **static websites** like HTML, CSS, and JavaScript.
+---
+### ✅ 2. Can you host dynamic apps here?
+No. GitHub Pages does not support backend or server-side code like PHP, Node.js, Python, or databases.
+You can only host static websites.
+---
+### ✅ 3. What are the limits of GitHub Pages?
+* Only static files (HTML, CSS, JS, images).
+* Max **1 GB** storage per repository.
+* Max **100 MB** size per file.
+* Bandwidth limit around **100 GB per month**.
+* No backend or database support.
+---
+### ✅ 4. How do you update the website?
+Just update the files (like index.html, style.css, etc.) in the GitHub repository and push/save them.
+Changes will appear on your website automatically.
+---
+### ✅ 5. What happens when you delete the repo?
+If you delete the GitHub repository:
+* Your website will **stop working**.
+* The link will show a **404 (not found)** page.
+---
+### ✅ 6. What is the default file that loads?
+`index.html`
+This file is the first one that opens when someone visits your site.
+---
+
+### ✅ 7. Can you use a custom domain?
+Yes! You can connect your own domain (like `mywebsite.com`) to GitHub Pages by adding DNS settings and a `CNAME` file.
+
+
+
+
